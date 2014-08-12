@@ -1,0 +1,10 @@
+#Generic
+.DS_Store
+Thumbs.db
+
+# Yo Angular
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components

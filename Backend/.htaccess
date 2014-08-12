@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteCond %{REQUEST_FILENAME} !-f 
+    RewriteRule ^([^\/]*)\/?(.*)$ /prototypes/3DGeoPrint-Backend/index.php?resource_type=$1&request=$2 [L] 
+</IfModule>
