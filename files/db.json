@@ -1,0 +1,23 @@
+{
+    "top":  57,
+    "left": -96,
+    "data":
+    [
+        [     null,null,          null,null,      "054B-W","054B-E",  "054A-W","054A-E",  "044D-W",null,          null,null,          null,null,          null,null,          null,null,          null,null,          null,null     ],
+        [     null,null,      "053N-W","053N-E",  "053O-W","053O-E",  "053P-W","053P-E",  "043M-W","043M-E",  "043N-W","043N-E",  "043O-W","043O-E",      null,null,          null,null,          null,null,          null,null     ],
+        [     null,null,      "053K-W","053K-E",  "053J-W","053J-E",  "053I-W","053I-E",  "043L-W","043L-E",  "043K-W","043K-E",  "043J-W","043J-E",      null,null,          null,null,          null,null,          null,null     ],
+        [ "053E-W","053E-E",  "053F-W","053F-E",  "053G-W","053G-E",  "053H-W","053H-E",  "043E-W","043E-E",  "043F-W","043F-E",  "043G-W","043G-E",      null,null,          null,null,          null,null,          null,null     ],
+        [ "053D-W","053D-E",  "053C-W","053C-E",  "053B-W","053B-E",  "053A-W","053A-E",  "043D-W","043D-E",  "043C-W","043C-E",  "043B-W","043B-E",  "043A-W","043A-E",      null,null,          null,null,          null,null     ],
+        [ "052M-W","052M-E",  "052N-W","052N-E",  "052O-W","052O-E",  "052P-W","052P-E",  "042M-W","042M-E",  "042N-W","042N-E",  "042O-W","042O-E",  "042P-W","042P-E",  "032M-W","032M-E",      null,null,          null,null     ],
+        [ "052L-W","052L-E",  "052K-W","052K-E",  "052J-W","052J-E",  "052I-W","052I-E",  "042L-W","042L-E",  "042K-W","042K-E",  "042J-W","042J-E",  "042I-W","042I-E",  "032L-W","032L-E",      null,null,          null,null     ],
+        [ "052E-W","052E-E",  "052F-W","052F-E",  "052G-W","052G-E",  "052H-W","052H-E",  "042E-W","042E-E",  "042F-W","042F-E",  "042G-W","042G-E",  "042H-W","042H-E",  "032E-W","032E-E",      null,null,          null,null     ],
+        [     null,"052D-E",  "052C-W","052C-E",  "052B-W","052B-E",  "052A-W","052A-E",  "042D-W","042D-E",  "042C-W","042C-E",  "042B-W","042B-E",  "042A-W","042A-E",  "032D-W","032D-E",      null,null,          null,null     ],
+        [     null,null,          null,null,          null,null,          null,null,          null,null,      "041N-W","041N-E",  "041O-W","041O-E",  "041P-W","041P-E",  "031M-W","031M-E",      null,null,          null,null     ],
+        [     null,null,          null,null,          null,null,          null,null,          null,null,          null,"041K-E",  "041J-W","041J-E",  "041I-W","041I-E",  "031L-W","031L-E",  "031K-W","031K-E",      null,null     ],
+        [     null,null,          null,null,          null,null,          null,null,          null,null,          null,null,      "041G-W","041G-E",  "041H-W","041H-E",  "031E-W","031E-E",  "031F-W","031F-E",  "031G-W","031G-E" ],
+        [     null,null,          null,null,          null,null,          null,null,          null,null,          null,null,          null,null,      "041A-W","041A-E",  "031D-W","031D-E",  "031C-W","031C-E",  "031B-W","031B-E" ],
+        [     null,null,          null,null,          null,null,          null,null,          null,null,          null,null,          null,"040O-E",  "040P-W","040P-E",  "030M-W","030M-E",  "030N-W","030N-E",      null,null     ],
+        [     null,null,          null,null,          null,null,          null,null,          null,null,          null,null,      "040J-W","040J-E",  "040I-W","040I-E",  "030L-W","030L-E",      null,null,          null,null     ],
+        [     null,null,          null,null,          null,null,          null,null,          null,null,          null,null,      "040G-W","040G-E",      null,null,          null,null,          null,null,          null,null     ]
+    ]
+}
