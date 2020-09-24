@@ -38,4 +38,5 @@ nosetests.xml
 # ------------ #
 # Custom
 temp/
+files/db/
 .DS_Store
