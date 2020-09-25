@@ -14,7 +14,7 @@ var LeafletMap = function (dataCoords) {
     };
 
     var map = LeafletMap.map,
-        tileserver = "http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
+        tileserver = "https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
         update = true,
         mouseLng, mouseLat,
         tileLayer = L.tileLayer(tileserver, {
