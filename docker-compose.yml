@@ -1,0 +1,21 @@
+version: '3'
+
+networks:
+    proxy:
+        external: true
+
+services:
+    apache:
+        build: .
+        expose:
+            - 80
+        restart: always
+        volumes:
+            - ./:/var/www/html
+            - ./php.ini:/usr/local/etc/php/php.ini
+        labels:
+            - "traefik.enable=true"
+            - "traefik.http.routers.geoprint.entryPoints=websecure"
+            - "traefik.http.routers.geoprint.rule=Host(`3dgeoprint.ca`)"
+        networks:
+            - proxy

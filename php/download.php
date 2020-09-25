@@ -85,7 +85,7 @@ if (
     exit;
 }
 
-$exec_string = "/usr/local/bin/python ../python/dbdriver.py " 
+$exec_string = "/usr/bin/python ../python/dbdriver.py " 
     . escapeshellarg($_GET['mapId'].".data") ." "
     . escapeshellarg($_GET['x'])  ." "
     . escapeshellarg($_GET['y'])  ." "
